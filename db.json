@@ -31,6 +31,14 @@
       "year": 2010,
       "quantity": "4",
       "imageURL": "/assets/warp.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Mexican Gothic",
+      "year": "2020",
+      "quantity": "10",
+      "imageURL": "https://m.media-amazon.com/images/I/511SNjnA2UL._AC_SY780_.jpg",
+      "description": "Mexican horror novel"
     }
   ]
 }
